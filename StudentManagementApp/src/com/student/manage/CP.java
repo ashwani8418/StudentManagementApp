@@ -11,7 +11,7 @@ public class CP {
 			//Creating a connection
 			String url = "jdbc:mysql://localhost:3306/student_management_app";
 			String user = "root";
-			String password = "Ashwani9916@";
+			String password = "XXXXXXXX";
 			con = DriverManager.getConnection(url, user, password);
 			
 		} catch (Exception e) {
